@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is used to create a factorial calculator
 =======
 This file helps the use to remove duplicates from a list
@@ -16,3 +17,6 @@ This checks if two strings are anagrams of each other
 =======
 this fxn sorts strings by their length
 >>>>>>> repo7-master
+=======
+this is a max-min fxn
+>>>>>>> repo8-master
